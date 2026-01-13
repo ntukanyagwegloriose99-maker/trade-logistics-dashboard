@@ -86,7 +86,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     """Load and prepare the dataset"""
-    df = pd.read_excel('data/Oc_data.xlsx')
+    df = df = pd.read_excel('Oc_data.xlsx')
     
     # Calculate average LPI score
     lpi_columns = ['LPI_CUSTOM', 'LPI_INFRA', 'LPI_EASE', 'LPI_QUALITY', 'LPI_TRACK', 'LPI_TIME']
