@@ -1,2 +1,4 @@
-# trade-logistics-dashboard
-ok
+streamlit
+pandas
+openpyxl==3.1.2
+plotly
