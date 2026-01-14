@@ -1,0 +1,33 @@
+streamlit
+pandas
+openpyxl==3.1.2
+plotly
+```
+
+### **STEP 5: Commit the file**
+- Scroll down
+- Click the green **"Commit new file"** button
+
+---
+
+## **✅ AFTER YOU CREATE IT:**
+
+1. Your file list will now show:
+```
+📄 Oc_data.xlsx
+📄 README.md
+📄 dashboard.py
+📄 requirements.txt     ← NEW!
+```
+
+2. **Streamlit will automatically redeploy** (wait 2-3 minutes)
+
+3. Your dashboard should work! 🎉
+
+---
+
+## **📸 WHAT TO CLICK:**
+
+Look at the top of your repository page, you should see:
+```
+[Add file ▼]  [Code ▼]
